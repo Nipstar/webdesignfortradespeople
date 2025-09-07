@@ -1,2 +1,0 @@
-# webdesignfortradespeople
-My awesome repository
